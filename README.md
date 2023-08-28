@@ -3,13 +3,13 @@ Whitepapers of Metahome Project
 
 Table of Contents
 
-Metahome, or Metaverse with Bioproducts of traditional Korean Medicine and Korean Cultural Contents
+1. Metahome, or Metaverse with Bioproducts of traditional Korean Medicine and Korean Cultural Contents
 
-About Dongbogam 
+2. About Dongbogam 
 
-About Metahome
+3. About Metahome
 
-Merits of META and HDBTC
+4. Merits of META and HDBTC
 
-Road Map
+5. Road Map
 
