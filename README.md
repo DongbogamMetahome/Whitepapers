@@ -19,6 +19,7 @@
     
 
 
+
 ## 1. Metahome, or Metaverse with Bioproducts of traditional Korean Medicine and Korean Cultural Contents
 
 ### 1.1 Definition of Metahome Service
@@ -53,6 +54,8 @@ In addition, when we observe the situations in China and Japan, where their trad
 In conclusion, the future of traditional Korean medicine products depends on changes in the selling process and the development of overseas markets. Dongbogam and Metahome have been created to solve such problems.
 
 
+
+
 ## 2. About Dongbogam
 
 ### 2.1 What is Dongbogam?
@@ -64,6 +67,8 @@ Dongbogam is rooted in Dongui Bogam 東醫寶鑑, one of the classics of traditi
 Dongbogam, a brand for traditional Korean medicine, is the center of Metahome. We have employed other selling methods for the Dongbogam products and have determined an online service made of a metaverse as the best method to utilize. This service operates an online shopping mall that provides consumers with a VR experience of traditional Korean medicine. This is how Metahome was created.
 
 We planned Metahome in 2021, and as the first step of opening the Metahome service, we created 210 billion METAs (mainly for transactions) and 2.1 billion HDBTCs (suitable for value storage). Metahome launches various services to enable users to lead healthy lifestyles and enjoy proper rewards for their economic emancipation as follows.
+
+
 
 
 ## 3. About Metahome
@@ -123,6 +128,8 @@ In particular, we are confident that our directors working creatively with the p
 As mentioned above, when Metahome users provide ideas or suggestions for making Metahome online content, METAs will be airdropped to vitalize the Metahome community. We expect that various opinions suggested by this advanced community can help to create virtuous circulation from webnovels to webtoons, from webtoons to dramas/movies, and from dramas/movies to games and vice versa. This scenario will lead to the development of Korean cultural content in various genres.
 
 
+
+
 ## 4. Merits of META and HDBTC
 
 ### 4.1 Merits of META and HDBTC
@@ -160,7 +167,10 @@ The conspicuous feature of Metahome’s ecosystem is that it adopts a structure 
 HDBTCs will be listed this year. Subsequently, one can use them and METAs within Metahome ecosystem to purchase Dongbogam products and use other content, including games, webnovels, webtoons, and OTT works. When the Metahome’s ecosystem is completed, we expect that HDBTCs will play a crucial role in it by functioning as a BST coin. Within the structure of Metahome’s ecosystem, we expect that HDBTCs will satisfy all the users.
 
 
+
+
 ## 5. Metahome Road Map
+
 
 Early 2021: Issued METAs/HDBTCs
 
@@ -183,6 +193,8 @@ June 2025: Add a webtoon section to the platform
 December 2025: Expand the platform to global markets
 
 December 2025: Add an OTT section to the platform
+
+
 
 
 ## 6. HDBTC Tokenomics
@@ -218,6 +230,8 @@ Dex liquidity pool: 3%
 Advisors: 2% 
 
 A total of 50% of HDBTCs for company reserve (30%) and marketing (20%) will be used to maintain, advertise, and develop the Metahome project. Within the Metahome ecosystem, users can mine METAs by performing various activities, and they can swap METAs for HDBTCs (30%). HDBTCs will be allocated to Metahome foundation/team (10%) and advisors (2%). Three percent of HDBTCs will be allocated to Dex liquidity pool. When the Metahome project is highly developed, 5% of HDBTCs will be donated to the public.
+
+
 
 
 ## 7. Legal Statement
